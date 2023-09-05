@@ -1,0 +1,3 @@
+fullcosting:
+  service:
+    endpoint: https://fullcosting-dev-url
